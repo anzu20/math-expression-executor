@@ -5,7 +5,7 @@
 #### Через Composer
 Выполните команду
 
-`composer require anzu20/math-expression-executor`
+`composer require --dev anzu20/math-expression-executor`
 
 Или добавьте 
 

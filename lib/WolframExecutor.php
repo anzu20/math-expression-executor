@@ -6,7 +6,7 @@ use MathExpressionExecutor\Models\ExecutorInterface;
 
 /**
  * Class WolframExecutor
- * WolframExecutor uses WolframAlfa to execute expression
+ * WolframExecutor uses WolframAlpha to execute expression
  * @package MathExpressionExecutor
  */
 class WolframExecutor implements ExecutorInterface
