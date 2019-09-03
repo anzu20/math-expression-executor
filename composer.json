@@ -1,0 +1,15 @@
+{
+    "name": "anzu20/math-expression-executor",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "MathExpressionExecutor\\": "lib/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "8"
+    }
+}
